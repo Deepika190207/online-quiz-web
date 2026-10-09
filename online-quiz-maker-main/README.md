@@ -157,7 +157,7 @@ This structure ensures:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/tsujit74/online-quiz-maker.git
+git clone https://github.com/Deepika190207/online-quiz-web.git
 cd online-quiz-maker
 ```
 
@@ -188,7 +188,7 @@ Create a `.env` file in **server** directory:
 ```env
 PORT=4000
 MONGO_URI=mongodb://localhost:27017/quizzes
-JWT_SECRET=tsujit
+JWT_SECRET=deepikaAdminquiz
 ```
 
 Create a `.env` file in **client** directory:
