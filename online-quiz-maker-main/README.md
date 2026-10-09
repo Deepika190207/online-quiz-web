@@ -6,7 +6,7 @@ A secure, interactive **Quizzy** application built with the **MERN stack** (Mong
 [🔗 Try it here](https://online-quiz-maker-np09.onrender.com/)
 
 ## 📂 GitHub Repository
-[🔗 View on GitHub](https://github.com/tsujit74/online-quiz-maker)
+[🔗 View on GitHub](https://github.com/Deepika190207/online-quiz-web/tree/main/online-quiz-maker-main)
 
 
 ## 📸 Screenshots
@@ -37,8 +37,11 @@ A secure, interactive **Quizzy** application built with the **MERN stack** (Mong
   - Tab switch detection
   - Right-click & copy prevention
   - DevTools detection & blocking
+- **🌓 Dark & Light Theme** – Switch between dark and light modes for a personalized user experience.
 - **🖥 Responsive Design** – Works seamlessly on desktop & mobile.
 - **⚡ Fast & Smooth** – Powered by the MERN stack for optimal performance.
+- **📊 Performance Analytics** – Track progress using interactive charts.
+- **🔐 Admin-Only Quiz Creation** – Only admins can create quizzes through secure API endpoints.
 
 ---
 
@@ -51,7 +54,8 @@ A secure, interactive **Quizzy** application built with the **MERN stack** (Mong
 - **Styling**: Tailwind CSS  
 - **Charts**: Recharts for interactive data visualization  
 - **Authentication**: JWT authentication for secure access  
-- **Security**: Secure API endpoints — only Admin can create quizzes  
+- **Security**: Secure API endpoints — only Admin can create quizzes
+- **Theme Support**: Dark Mode & Light Mode  
 
 ### **User Features**
 - Dashboard with chart-wise progress tracking  
@@ -371,6 +375,6 @@ For questions, issues, or contributions, please reach out via:
 **Thank you for your interest in Quizzy!** Your support and contributions help improve the platform for everyone.
 
 **With Gratitude,**
-**Sujit Thakur ❤️**
+**Deepika Hanumanthu ❤️**
 
 ---
